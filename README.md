@@ -10,7 +10,7 @@ I'm very interested in the world of machine learning and am exploring it passion
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,tailwind,kotlin)
+![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,kotlin)
 ### 🧰 Frameworks and libraries
 ![My Skills](https://skillicons.dev/icons?i=react,express,bootstrap,docker,github,wordpress,flask)
 ### 🗄️ Databases and cloud hosting
