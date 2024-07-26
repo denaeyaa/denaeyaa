@@ -15,3 +15,5 @@ I'm very interested in the world of machine learning and am exploring it passion
 ![My Skills](https://skillicons.dev/icons?i=react,express,bootstrap,docker,github,wordpress,flask)
 ### 🗄️ Databases and cloud hosting
 ![My Skills](https://skillicons.dev/icons?i=aws,azure,vercel,postgres,mysql)
+### 💻 Software and tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,linux,codepen,postman,figma,stackoverflow)
