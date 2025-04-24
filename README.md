@@ -5,15 +5,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Naya;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
 
-I'm very interested in the world of machine learning and am exploring it passionately. Currently, I'm exploring Python as my main programming language. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field, as well as sharing my knowledge with the community. Come on, let's explore this world together!
+I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field. Come on, let's explore this world together!
 
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,tailwind)
+![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,python,php)
 ### 🧰 Frameworks and libraries
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,docker,github,wordpress,flask)
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,docker,github,wordpress,flask,django)
 ### 🗄️ Databases and cloud hosting
-![My Skills](https://skillicons.dev/icons?i=aws,vercel,postgres,mysql)
+![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,postgres,mysql)
 ### 💻 Software and tools
-![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,linux,codepen,postman,figma,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,linux,codepen,figma,stackoverflow,chatgpt)
