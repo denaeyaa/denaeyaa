@@ -10,7 +10,7 @@ I'm very interested in the world of coding, data, AI and am exploring it passion
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,python,nodejs,typescript,vite)
+![My Skills](https://skillicons.dev/icons?i=js,react,html,css3,tailwind,python,nodejs,typescript,vite)
 ### 🧰 Frameworks and libraries
 ![My Skills](https://skillicons.dev/icons?i=react,bootstrap,docker,github,wordpress,laravel)
 ### 🗄️ Databases and cloud hosting
