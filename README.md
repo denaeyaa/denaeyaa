@@ -11,8 +11,8 @@ I'm very interested in the world of coding, data, AI and am exploring it passion
 ### 👨‍💻 Programming and markup languages
 ![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,python,nodejs,typescript,vite,js)
 ### 🧰 Frameworks and libraries
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,docker,kubernetes,github,wordpress,laravel)
+![My Skills](https://skillicons.dev/icons?i=react,bootstrap,docker,kubernetes,github,wordpress)
 ### 🗄️ Databases and cloud hosting
-![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,postgres,mysql)
+![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,mysql,mariadb)
 ### 💻 Software and tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,linux,codepen,figma,stackoverflow)
