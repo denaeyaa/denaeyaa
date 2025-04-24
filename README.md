@@ -1,7 +1,4 @@
 ## Hi there !
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denayativanie@gmail.com)](mailto:denayativanie@gmail.com)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Naya;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
 
 I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^
@@ -16,3 +13,5 @@ I'm very interested in the world of coding, data, AI and am exploring it passion
 ![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,mysql)
 ### 💻 Software and tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,linux,codepen,stackoverflow)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denayativanie@gmail.com)](mailto:denayativanie@gmail.com)
