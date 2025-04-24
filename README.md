@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Naya;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
 
-I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field. Come on, let's explore this world together!
+I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^
 
 ## 🛠️ My favorite tools
 
