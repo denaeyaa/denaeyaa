@@ -11,6 +11,6 @@
 ### 🗄️ Databases and cloud hosting
 ![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,mysql,github,heroku)
 ### 💻 Software and tools
-![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,linux,codepen,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,codepen,stackoverflow,ai)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denayativanie@gmail.com)](mailto:denayativanie@gmail.com)
