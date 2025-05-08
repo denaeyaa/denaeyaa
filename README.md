@@ -5,11 +5,11 @@
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-![My Skills](https://skillicons.dev/icons?i=react,html,css,vue,tailwind,python,nodejs,typescript,vite,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,python,nodejs,typescript,js)
 ### 🧰 Frameworks and libraries
-![My Skills](https://skillicons.dev/icons?i=react,bootstrap,docker,flask,github,wordpress,moodle)
+![My Skills](https://skillicons.dev/icons?i=react,tailwind,vue,vite,nuxtjs,bootstrap,flask,wordpress,)
 ### 🗄️ Databases and cloud hosting
-![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,mysql)
+![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,mysql,github,heroku)
 ### 💻 Software and tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,linux,codepen,stackoverflow)
 
