@@ -9,7 +9,7 @@
 ### 🧰 Frameworks and libraries
 ![My Skills](https://skillicons.dev/icons?i=react,tailwind,vue,vite,nuxtjs,bootstrap,flask,wordpress,)
 ### 🗄️ Databases and cloud hosting
-![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify,azure,mysql,github,heroku)
+![My Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,mysql,github,heroku)
 ### 💻 Software and tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,codepen,stackoverflow,ai)
 
