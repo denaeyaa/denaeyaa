@@ -1,4 +1,5 @@
 ## Hi there !
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrZm4ycW9oaGlrMncyYWtpa3IzdGxua3hkam9ydGNnNG1vNTE0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif)
 <b>I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^</b>
 
 ## 🛠️ My favorite tools
