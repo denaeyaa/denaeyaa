@@ -20,7 +20,7 @@ jobs:
           color_dots: '#161b22,#0e4429,#006d32,#26a641,#39d353' # Gradasi dari hitam ke hijau
           background: '#161b22' # Latar belakang sangat gelap
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output # Branch tempat snake.svg akan disimpan
           build_dir: dist
