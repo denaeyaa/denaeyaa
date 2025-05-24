@@ -11,9 +11,6 @@
     </td>
   </tr>
 </table>
-
-[![Nay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denaeyaa&bg_color=0D1117&color=c9d1d9&line=5e66ff&point=8b949e&hide_border=true&theme=none)](https://github.com/Ashish-Boy/github-readme-activity-graph)
-
 ---
 ### 👨‍💻 Programming and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=html,css,python,nodejs,typescript,js,nextjs,react,tailwind,vue,vite,nuxtjs,bootstrap,flask,)
