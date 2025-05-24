@@ -13,6 +13,7 @@
 </table>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 [![Nay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denaeyaa&bg_color=0D1117&color=c9d1d9&line=5e66ff&point=8b949e&hide_border=true&theme=none)](https://github.com/Ashish-Boy/github-readme-activity-graph)
 
