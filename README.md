@@ -1,17 +1,23 @@
 ## Hi there !
-<table border="none">
-  <tr>
-    <td valign="top" width="30%"> <p align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrZm4ycW9oaGlrMncyYWtpa3IzdGxua3hkam9ydGNnNG1vNTE0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="220" alt="Animated Welcome" />
-      </p>
-    </td>
-    <td valign="top" width="70%" style="padding-left: 20px;">
-      <p>
-        I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^
-      </p>
-    </td>
-  </tr>
-</table>
+<details>
+<summary>
+  <p align="left">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrZm4ycW9oaGlrMncyYWtpa3IzdGxua3hkam9ydGNnNG1vNTE0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="200" align="left" alt="Perkenalan GIF" />
+  </p>
+</summary>
+
+<p>
+  Hi there! Welcome to my GitHub profile. 👋
+</p>
+<p>
+  I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^
+</p>
+
+</details>
+
+<br>
+
+<h4>🛠️ My favorite tools</h4>
 
 
 ## 🛠️ My favorite tools
