@@ -11,7 +11,7 @@
     </td>
   </tr>
 </table>
-<br>
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
