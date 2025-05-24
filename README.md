@@ -12,8 +12,6 @@
   </tr>
 </table>
 
-### 🐍 My GitHub Contribution Snake
-
 <p align="center">
   <img src="https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg?raw=true" alt="github-contribution-grid-snake" />
 </p>
