@@ -12,12 +12,6 @@
   </tr>
 </table>
 
-### ✨ Today's Random Pick Just for You!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/denaeyaa/denaeyaa/main/assets/random_anime_gif.gif" alt="Random Anime GIF" width="300"/>
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
@@ -26,3 +20,24 @@
 ![My Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,mysql,github,heroku,vscode,git,linux,codepen,stackoverflow,ai,wordpress,ubuntu)
 
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaeyaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+### 🏆 My GitHub Achievements & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=denaeyaa&theme=dark&no-frame=true&no-bg=true" alt="Denay's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denaeyaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" alt="Denay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=denaeyaa&theme=dark&hide_border=true" alt="Denay's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaeyaa&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg?raw=true" alt="github-contribution-grid-snake" />
+</p>
+
