@@ -16,20 +16,6 @@
 
   ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denaeyaa&layout=compact&hide_border=true&theme=dark)
 
-### 🗺️ My Coding Expedition
-
-My journey in tech is an ongoing adventure, here are some milestones:
-
-* **2020 - The Genesis: Web Fundamentals**
-    * Learned `HTML`, `CSS`, `JavaScript`. Built my first static websites.
-    * 🌱 _Key takeaway: The web is a canvas, and code is the brush!_
-* **2022 - Pythonic Deep Dive & AI Awakenings**
-    * Explored `Python`, `Data Analysis (Pandas, NumPy)`, `Machine Learning (Scikit-learn, TensorFlow)`.
-    * 🧠 _Realization: Data holds stories, and AI helps us read them._
-* **2024 - Scaling Up: Cloud & Beyond**
-    * Currently mastering `Docker`, `Kubernetes`, `AWS`, and `CI/CD` for robust deployments.
-    * ☁️ _Next Frontier: Building scalable and intelligent systems._
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
