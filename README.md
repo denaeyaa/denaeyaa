@@ -21,4 +21,4 @@
 [![Nay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denaeyaa&bg_color=0D1117&color=c9d1d9&line=5e66ff&point=8b949e&hide_border=true&theme=none)](https://github.com/Ashish-Boy/github-readme-activity-graph)
 
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaeyaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=925 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaeyaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
