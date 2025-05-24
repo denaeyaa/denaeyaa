@@ -13,7 +13,7 @@
 </table>
 
 <p align="center">
-<img src="https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg?raw=true" alt="github-contribution-grid-snake" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denaeyaa/denaeyaa/output/github-contribution-grid-snake.svg">
 </p>
 
 ## 🛠️ My favorite tools
