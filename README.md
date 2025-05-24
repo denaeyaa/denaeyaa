@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="top" width="30%"> <p align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrZm4ycW9oaGlrMncyYWtpa3IzdGxua3hkam9ydGNnNG1vNTE0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="200" alt="Animated Welcome" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrZm4ycW9oaGlrMncyYWtpa3IzdGxua3hkam9ydGNnNG1vNTE0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="220" alt="Animated Welcome" />
       </p>
     </td>
     <td valign="top" width="70%" style="padding-left: 20px;">
