@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-<img alt="github contribution grid snake animation" src="https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg">
+[![Nay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denaeyaa&theme=dark)](https://github.com/Ashish-Boy/github-readme-activity-graph)
 
 ## 🛠️ My favorite tools
 
