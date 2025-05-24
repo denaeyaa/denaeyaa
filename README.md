@@ -16,6 +16,8 @@
 
   ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denaeyaa&layout=compact&hide_border=true&theme=dark)
 
+![github-contribution-grid-snake](https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg)
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
