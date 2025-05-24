@@ -12,11 +12,7 @@
   </tr>
 </table>
 
-[![Nay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denaeyaa&theme=dark)](https://github.com/Ashish-Boy/github-readme-activity-graph)
-
-### Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/denaeyaa/count.svg)
+[![Nay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denaeyaa&bg_color=0D1117&color=c9d1d9&line=5e66ff&point=8b949e&hide_border=true&theme=none)](https://github.com/Ashish-Boy/github-readme-activity-graph)
 
 ## 🛠️ My favorite tools
 
