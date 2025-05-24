@@ -12,6 +12,12 @@
   </tr>
 </table>
 
+### ⏰ My Coding Playground Time
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=denaeyaa&layout=compact&hide_border=true&theme=dark" alt="Wakatime Stats" />
+</p>
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
