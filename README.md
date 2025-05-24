@@ -12,6 +12,12 @@
   </tr>
 </table>
 
+### ✨ Today's Random Pick Just for You!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/denaeyaa/denaeyaa/main/assets/random_anime_gif.gif" alt="Random Anime GIF" width="300"/>
+</p>
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
