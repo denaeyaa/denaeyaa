@@ -14,6 +14,10 @@
 
 [![Nay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denaeyaa&theme=dark)](https://github.com/Ashish-Boy/github-readme-activity-graph)
 
+### Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/denaeyaa/count.svg)
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
