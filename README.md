@@ -11,7 +11,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ### 👨‍💻 Programming and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=html,css,python,nodejs,typescript,js,nextjs,react,tailwind,vue,vite,nuxtjs,bootstrap,flask,)
 ### 🗄️ Databases, Software and Tools
