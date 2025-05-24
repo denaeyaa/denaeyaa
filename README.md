@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denaeyaa/denaeyaa/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg">
 
 ## 🛠️ My favorite tools
 
