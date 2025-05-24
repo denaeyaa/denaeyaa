@@ -13,14 +13,14 @@ jobs:
       - uses: platane/snk@v3
         with:
           github_user_name: denaeyaa
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-             color_snake: green
-             color_dots: blue
-             background: transparent
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+             outputs: |
+               dist/github-contribution-grid-snake.svg
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+             color_snake: '#a7d95e' # Hijau terang
+             color_dots: '#186338,#33a753,#8cd36e,#bddf7e,#e1f38a' # Gradien hijau
+             background: '#161b22' # Latar belakang gelap GitHub
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
