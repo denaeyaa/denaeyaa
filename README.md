@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 Programming and Frameworks
-![My Skills](https://skillicons.dev/icons?i=html,css,python,nodejs,typescript,js,nextjs,react,tailwind,vue,vite,nuxtjs,bootstrap,flask,)
+![My Skills](https://skillicons.dev/icons?i=css,python,nodejs,typescript,js,nextjs,react,tailwind,vue,vite,nuxtjs,bootstrap,flask,html)
 ### 🗄️ Databases, Software and Tools
 ![My Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,mysql,github,heroku,vscode,git,linux,codepen,stackoverflow,ai,wordpress,ubuntu)
 
