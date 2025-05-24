@@ -12,11 +12,11 @@
   </tr>
 </table>
 
-### ⏰ My Coding Playground Time
+### 🐍 My GitHub Contribution Snake
 
-  ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denaeyaa&layout=compact&hide_border=true&theme=dark)
-
-![github-contribution-grid-snake](https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/denaeyaa/denaeyaa/blob/output/github-contribution-grid-snake.svg?raw=true" alt="github-contribution-grid-snake" />
+</p>
 
 ## 🛠️ My favorite tools
 
