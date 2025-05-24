@@ -12,10 +12,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denaeyaa&theme=dark&no-frame=true&no-bg=true" alt="Denay's GitHub Trophies" />
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and Frameworks
