@@ -6,7 +6,7 @@
       </p>
     </td>
     <td valign="top" width="70%" style="padding-left: 20px;"><br>
-      <p>I'm very interested in the world of coding, data, AI and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^
+      <p>I'm very interested in the world of coding, design, data and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^
       </p>
     </td>
   </tr>
