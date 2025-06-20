@@ -1,24 +1,18 @@
-## Hi there !
-<table>
-  <tr>
-    <td valign="top" width="30%"> <p align="center">
-        <img src="https://media.giphy.com/media/11H6W7U8mxDwL6/giphy.gif?cid=ecf05e47oyfeqftm90lv697w9h3y5gu057x79kpcdn9s0p46&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="220" alt="Animated Welcome" />
-      </p>
-    </td>
-    <td valign="top" width="70%" style="padding-left: 20px;"><br>
-      <p>I'm very interested in the world of coding, design, data and am exploring it passionately. Every day is a new opportunity to absorb knowledge and expand my horizons in this dynamic world. I am excited to continue learning and growing in this field ^^
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 👨‍💻 Programming and Frameworks
-![My Skills](https://skillicons.dev/icons?i=css,python,nodejs,typescript,js,nextjs,react,tailwind,vue,vite,nuxtjs,bootstrap,flask,html)
-### 🗄️ Databases, Software and Tools
-![My Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,mysql,github,heroku,vscode,git,linux,codepen,stackoverflow,ai,wordpress,ubuntu)
-
----
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaeyaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Naya%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💻 Front end programming • Sysadmin
+    📖 UI Web Design • Data • AI / ML 
+    🐾 Music • Anime • Code • Art • Tea
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/denaeyaa/denaeyaa/main/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/instagram-0a66c2)](http://instagram.com/en/denaeeya)
+[![](https://img.shields.io/badge/-6364ff)](#)
+[![](https://img.shields.io/badge/osu!-ff66ab)](#)
+[![](https://img.shields.io/badge/enka.network-69899c)](#)
+</div>
