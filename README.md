@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/denaeyaa/denaeyaa/main/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/instagram-0a66c2)](http://instagram.com/en/denaeeya)
+[![](https://img.shields.io/badge/instagram-0a66c2)](http://instagram.com/en/)
 [![](https://img.shields.io/badge/-6364ff)](#)
 [![](https://img.shields.io/badge/osu!-ff66ab)](#)
 [![](https://img.shields.io/badge/enka.network-69899c)](#)
