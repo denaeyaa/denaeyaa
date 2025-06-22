@@ -12,6 +12,6 @@
     
 [![](https://img.shields.io/badge/instagram-0a66c2)](http://instagram.com/en/)
 [![](https://img.shields.io/badge/-6364ff)](#)
-[![](https://img.shields.io/badge/osu!-ff66ab)](#)
-[![](https://img.shields.io/badge/enka.network-69899c)](#)
+[![](https://img.shields.io/badge/osu!-ff)](#)
+[![](https://img.shields.io/badge/enka.netwo)](#)
 </div>
